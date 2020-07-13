@@ -1,0 +1,25 @@
+{
+  "name": "@elasticms/publisher",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "main": "lib/publish.js",
+  "bin": {
+    "ems-zip-create": "bin/zip-create.js",
+    "ems-zip-publish": "bin/zip-publish.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ems-project/publisher/issues"
+  },
+  "homepage": "https://github.com/ems-project/publisher#readme",
+  "dependencies": {
+    "archiver": "^4.0.1",
+    "axios": "^0.19.2",
+    "del": "^5.1.0",
+    "dotenv": "^8.2.0",
+    "globby": "^11.0.1",
+    "sha1-file": "^2.0.0",
+    "yargs": "^15.4.0"
+  }
+}
