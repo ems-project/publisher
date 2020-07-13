@@ -6,7 +6,8 @@
   "license": "MIT",
   "main": "lib/publish.js",
   "bin": {
-    "ems-zip": "bin/zip.js"
+    "ems-zip-create": "bin/zip-create.js",
+    "ems-zip-publish": "bin/zip-publish.js"
   },
   "bugs": {
     "url": "https://github.com/ems-project/publisher/issues"
