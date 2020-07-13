@@ -1,4 +1,4 @@
-# EMS Api Client
+# Elasticms publisher
 
 NPM package for publishing through [elasticms](https://www.elasticms.eu) API.
 
