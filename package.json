@@ -4,7 +4,7 @@
   "description": "",
   "author": "",
   "license": "MIT",
-  "main": "lib/publish.js",
+  "main": "lib/publisher.js",
   "bin": {
     "ems-zip-create": "bin/zip-create.js",
     "ems-zip-publish": "bin/zip-publish.js"
