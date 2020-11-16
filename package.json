@@ -1,7 +1,7 @@
 {
   "name": "@elasticms/publisher",
   "version": "1.0.0",
-  "description": "",
+  "description": "create and publish zips for elasticms",
   "author": "",
   "license": "MIT",
   "main": "lib/publisher.js",
@@ -13,6 +13,10 @@
     "url": "https://github.com/ems-project/publisher/issues"
   },
   "homepage": "https://github.com/ems-project/publisher#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ems-project/publisher.git"
+  },
   "dependencies": {
     "archiver": "^4.0.1",
     "axios": "^0.19.2",
