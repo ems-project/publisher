@@ -1,6 +1,6 @@
 {
   "name": "@elasticms/publisher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create and publish zips for elasticms",
   "author": "",
   "license": "MIT",
